@@ -12,6 +12,8 @@ Il était demandé de réaliser:
 - Développer une API et la mettre en production
 
 # Contenu du repositiry:
+- Models : Ce dossier contient l'ensembles modèles généré à partir des notebook, 
+- Variables : contient l'ensemble des variables et le dictionnaires des mots généré à partir des notebook,
 - Un notebook de nottoyage et d'exploration des données.
 - Un notebook de vectorisation des données.
 - Un notebook de test des models non supervisés
